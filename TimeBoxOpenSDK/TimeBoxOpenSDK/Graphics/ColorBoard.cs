@@ -6,7 +6,7 @@ namespace TimeBoxOpenSDK.Graphics
     {
         public byte[] Board;
 
-        private static Color[] Colors = new Color[] {new Black(), new Red(), new Green(), new Blue(), new White(), new Color(255, 0, 255)};
+        private static Color[] Colors = new Color[] {new Black(), new Red(), new Green(), new Blue(), new White(), new Color(255, 0, 255), new Color(255, 215, 0)};
         
         public ColorBoard()
         {
